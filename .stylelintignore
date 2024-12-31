@@ -1,0 +1,4 @@
+src/styles/primevue/**/*.scss
+src/styles/primevue/**/*.css    
+src/styles/tailwind.css
+src/styles/theme-variables.css
