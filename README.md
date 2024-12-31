@@ -2,6 +2,10 @@
 
 這是一個基於 Vue 3 生態系統打造的現代化前端開發模板。整合了 Vite 建構工具帶來的快速開發體驗，PrimeVue 3.53 提供的豐富 UI 元件，以及 TailwindCSS 樣式設計系統。此模板已預先配置好開發所需的必要工具，讓您能夠專注在應用程式的開發上，無需花費時間在環境設定。
 
+## 注意事項
+
+截至 2024/12/30，PrimeVue 4 的版本已經發布，所以此模板暫時不升級 PrimeVue 版本，其他相關套件也暫時不升級。
+
 ## 技術棧
 
 - Vue 3
@@ -70,4 +74,3 @@ npm run build
 - `.stylelintrc`: Stylelint CSS 規則
 - `vite.config.js`: Vite 設定
 - `tailwind.config.js`: Tailwind CSS 設定
-
