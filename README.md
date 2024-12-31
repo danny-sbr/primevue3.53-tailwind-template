@@ -29,24 +29,24 @@
 ### 環境需求
 
 - Node.js 18+ 
-- npm 9+
+- pnpm 9+
 
 ### 安裝
 
 ```sh
-npm install
+pnpm install
 ```
 
 ### 開發
 
 ```sh
-npm run dev
+pnpm run dev
 ```
 
 ### 建置
 
 ```sh
-npm run build
+pnpm run build
 ```
 
 ## 開發工具建議
