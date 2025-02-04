@@ -24,7 +24,7 @@ export default defineConfig({
     }),
   ],
   server: {
-    port: 3809,
+    port: 4115,
   },
   resolve: {
     alias: {
